@@ -8,7 +8,8 @@ class HomePage extends GetView<SongController> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-        appBar: AppBar(title: const Center(child: Text("Song Book"))),
+        appBar:
+            AppBar(title: const Center(child: Text("Bodo Gospel Song Book"))),
         body: Padding(
           padding: const EdgeInsets.all(8.0),
           child: Column(

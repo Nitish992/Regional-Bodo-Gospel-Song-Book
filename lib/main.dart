@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return GetMaterialApp(
-      title: 'Flutter Demo',
+      title: 'Bodo Gospel Song Book',
       debugShowCheckedModeBanner: false,
       // initialBinding: ControllerBinding(),
       theme: ThemeData(
